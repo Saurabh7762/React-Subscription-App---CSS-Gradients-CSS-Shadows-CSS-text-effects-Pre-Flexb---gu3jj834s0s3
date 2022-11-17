@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/App.css";
+import "../src/App.css";
 const App = () => {
   return (
     <div id="main">
@@ -10,7 +10,7 @@ const App = () => {
         <h3 class="community-sub-header">
           30-day, hassle-free monkey back gurarantee
         </h3>
-        <P class="community-text">
+        <p class="community-text">
           Gain access to our full library of tutorials along with expert
           code reviews. Perfect for any developers who are serious about
           honing their skills.
@@ -31,7 +31,7 @@ const App = () => {
           </a>
         </div>
         <div class="why-us">
-          <h4 Us</h4>
+          <h4>Us</h4>
           <div class="why-us-lists">
  <ul class="why-us-items">
   <li class="why-us-item">Tutorials by industry experts</li>
